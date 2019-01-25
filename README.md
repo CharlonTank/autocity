@@ -5,7 +5,7 @@ Autocity project goal is to gather information to know how much people and resou
 First, we need to define each step
 
 # Can I contribute?
-Doing this project withour any contribution is not possible.
+Doing this project without any contribution is not possible.
 We need people in each domain to know exactly what we need to launch a seed
 
 # Seed
