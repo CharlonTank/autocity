@@ -22,7 +22,7 @@ For now, work on this has no direct rewards, because this is pretty much time do
 Once we launch the first seed, people in that seed will have a lot to accomplish to maintain the seed.
 In our modern capitalist society, we have less and less jobs, so we keep and create jobs just to keep people working, producing more pollution... Programmed obsolescence is everywhere... So in our modern capitalist society, goal of work is to earn money for ourselves and our family, giving more money to big companies for most of us, digging the distance between rich and poor people even more, everyday...
 The goal of work in a seed is not about earning money, neither creating value for big companies, the goal of work is to reduce the time of work day by day until perfect automation is reach.
-Since everything can be voted out, the number of work hours at the beginning will be voted, it may vary a bit. But since we will work to reduce work time.
+Since everything can be voted out, the number of work hours at the beginning will be voted, it may vary a bit but since we will work to reduce work time, work time will decrease.
 
 # Can I contribute?
 Doing this project without any contribution is not possible.
