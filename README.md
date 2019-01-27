@@ -1,5 +1,5 @@
 # What is Autocity?
-Autocity project goal is to gather information to know how much people and resource we need to create an autonomous city with a society without money and perfect equality between people, controlled by its people using global democracy.
+Autocity project goal is to gather information to know how much people and resource we need to create an autonomous city with a society without money and perfect equity between people, controlled by its people using global democracy.
 
 # Steps
 First, we need to define each step.
