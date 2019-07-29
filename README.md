@@ -3,7 +3,7 @@ Autocity project goal is to gather information to know how much people and resou
 
 # Steps
 First, we need to define each step.
-There is to big steps :
+There is two big steps :
 1) What do we need before the first seed.
 2) What do we need to be sure to launch a seed. Resources, people, places... etc
 
