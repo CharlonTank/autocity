@@ -1,5 +1,14 @@
 # What is Autocity?
-The Autocity project aims to gather information to determine how many people and resources are needed to create an autonomous city. This city would have a society without money and perfect equality with equity among its people, controlled by its citizens using global democracy.
+
+Autocity is a pioneering project that envisions the establishment of an autonomous city. Unlike conventional cities, this ambitious concept seeks to abolish monetary systems and create a society founded on perfect equality and equity. The governing structure would be controlled by the citizens themselves through a model of global democracy.
+
+The idea of an autonomous city goes beyond just self-sufficiency in resources. It represents a profound shift in social structure, where the goal is to ensure that every individual starts life with the same opportunities. This is not a mere idealistic dream; it's a response to the growing disparities between rich and poor and the reduction of jobs in modern capitalist societies.
+
+Programmed obsolescence, the creation of jobs merely to keep people working, and the increasing gap between the rich and the poor are pressing concerns. Autocity challenges these issues by promoting a new societal construct that focuses on human values rather than economic gain. Work in Autocity isn't about earning money or creating value for large corporations. Instead, it is about reducing the time of work day by day until perfect automation is reached.
+
+Through collaboration, careful planning, and the engagement of various skill sets, Autocity aims to build a city from a seed - an initial attempt that may grow if successful. It's a project that may be deemed utopian by some, but it raises essential questions about our values and the kind of society we wish to live in.
+
+In a world where we often switch between capitalism and socialism, Autocity asks: Do we want an equal society? Do we believe in perfect democracy? If so, this could be a step towards that future.
 
 ## Steps
 First, we need to define each step. There are two major stages:
