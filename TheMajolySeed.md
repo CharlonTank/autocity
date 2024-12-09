@@ -38,7 +38,7 @@ The centennial was a tapestry of joy, gratitude, and reflection. Songs were sung
 
 Majoly was not an experiment; it was a testament. A testament to human potential, to the pursuit of passions, to the love that binds all.
 
-### A Promise Blooms
+### A Promise Blooms!
 
 As the centennial fireworks painted the sky, Majoly was not looking back but forward. It was not a culmination but a beginning. The Majoly Seed was a promise, a beacon, a song of hope that would resonate through the ages.
 
